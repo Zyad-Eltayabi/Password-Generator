@@ -10,5 +10,5 @@ A simple application that generates a random password for the user
 
   ### ScreenShots
   <div>
-    
+    <img src = "src/Screenshot 2024-01-28 232142.png" >
   </div>
